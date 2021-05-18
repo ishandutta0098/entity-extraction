@@ -28,4 +28,6 @@ Total Words Count = 1354149
 Target Data Column: "tag"
 
 ## References
-[Building an entity extraction model using BERT](https://www.youtube.com/watch?v=MqQ7rqRllIc&t=2294s)
+- [Building an entity extraction model using BERT](https://www.youtube.com/watch?v=MqQ7rqRllIc&t=2294s)
+- [HuggingFace Transformers Tokenizer](https://huggingface.co/transformers/v2.11.0/main_classes/tokenizer.html)
+- [HuggingFace Transformers Glossary](https://huggingface.co/transformers/glossary.html)
